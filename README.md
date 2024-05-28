@@ -1,4 +1,4 @@
-# Empatia_DL
+# Empatia_DL (Project with CEI-UPM)
 This project is for the Python code for Empatia with DL methods. Using WEMAC and WESAD data base.
 
 The paper related to this project has been published in _DOI: 10.1109/JBHI.2024.3392373_
